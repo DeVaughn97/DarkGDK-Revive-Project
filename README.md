@@ -1,7 +1,7 @@
 # DarkGDK-Revive-Project
 This are work samples me working with DarkGDK(Development Kit for Games)
 
-Project Goal: Refresh my skills with the DarkGDK(Development Kit for Games)
+Project Goal: Refresh my skills with DarkGDK(Development Kit for Games)
 
 What is the value of this project? 
 Previously I worked on DarkGdk back around 2009 when it was popular this is a very rare development kit for games but can still be applied today as its a Development kit for Games 
