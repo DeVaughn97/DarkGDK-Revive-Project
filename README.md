@@ -1,4 +1,4 @@
-# DarkGDK-Revive-Project
+# DarkGDK-Revive-Project Part 1
 This are work samples me working with DarkGDK(Development Kit for Games)
 
 Project Goal: Refresh my skills with DarkGDK(Development Kit for Games)
