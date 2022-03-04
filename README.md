@@ -22,3 +22,7 @@ What will be needed in order to run this project?
 1st NOTICE:This is Part 1 of the Project
 
 2nd NOTICE: Part 2 of this project is coming soon
+
+Coding Reference "Starting Out with Games & Graphics in C++ by Tony Gaddis"
+
+3rd NOTICE: All programs were still made from scratch in the DarkGDK kit
